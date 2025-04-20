@@ -5,5 +5,5 @@ we are having four members in team which is -
                2. Punam Annasaheb Gunjal      Gmail: punamgunjal400@gmail.com
                3. Nikita Sanjay Hidgire       Gmail:- nikitahidgire@gamil.com
                4. Pooja Mahadev Gaikwad               Gmail:- poojagaikwad313@gmail.com
-Our project name is Hotel Oxygen (FAMILY RESTAURANT,BANQUET,BAR).
+Our project name is Hotel Simply South (FAMILY RESTAURANT,BANQUET,BAR).
 In the project we are using php and MySql as a backend and HTML, CSS,JavaScript as a frontend.
